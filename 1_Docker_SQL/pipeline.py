@@ -4,4 +4,6 @@ import sys
 
 print(sys.argv)
 
-print('Job finished')
+day = sys.argv[1]
+
+print(f"Job finished {day}")
