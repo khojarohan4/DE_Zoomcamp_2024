@@ -1,0 +1,3 @@
+1_Docker_SQL/ny_taxi_postgres_data/pg_logical/replorigin_checkpoint
+*.mdf
+*.ldf
